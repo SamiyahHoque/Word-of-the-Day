@@ -5,6 +5,6 @@ Word of the day
 
 Currently working on
 - Updating it so that it works with Manifest version 3
-- Waiting on recieving my API key so that I no longer as using a predefined list
-- Adding functionality to pin words you like into a side bar
+- Waiting on recieving my API key so that I no longer have to use a predefined list
+- Adding functionality to pin words into a side bar
 - Adding more styling
